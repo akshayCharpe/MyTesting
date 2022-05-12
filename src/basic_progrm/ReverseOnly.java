@@ -5,7 +5,7 @@ public class ReverseOnly {
 	public static void main(String[] args) 
 	{
 
-		String s=" velocity crporate training centre pune";
+		String s=" velocity corporate training centre pune";
 		//String sep=" ";
 		String[] m = s.split(" ");
 		

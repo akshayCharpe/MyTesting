@@ -20,6 +20,7 @@ public class LinkedHashSet {
 		
 		System.out.println(lh);
 		
+		
 		for(Object o:lh)
 		{
 			System.out.println(o);

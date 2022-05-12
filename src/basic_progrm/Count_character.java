@@ -18,7 +18,7 @@ public class Count_character {
 			}
 		}
 		
-		System.out.println("Counting of Characters is "+count);
+		System.out.println("Counting of Space is "+count);
 	}
 
 }

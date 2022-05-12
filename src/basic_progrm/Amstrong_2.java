@@ -6,17 +6,17 @@ public class Amstrong_2 {
 	{
 
 		
-		int a=155;
+		int a=1555;
 		int t1=a;
 		int length=0;
 		
 		while(t1!=0)
 		{
-			length=length+1;
+			length++;
 			
 			t1=t1/10;
 		}
-	
+	System.out.println(length);
 		
 		int t2=a;
 		
